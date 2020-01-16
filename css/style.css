@@ -2,11 +2,28 @@
   padding: 60px;
   text-align: center;
   background: #87B38D;
-  color: white;
-  font-family: 'Fruktur', cursive;
-  font-size: 30px;
+ 
 }
 
-h2{
-	font-family: 'Shadows Into Light', cursive;
+h1 {
+	margin:0px;
+	padding-top :60px;
+	padding-bottom: 0px;
+	color: white;
+  	font-family: 'Amatic SC', cursive;
+    font-size: 100px;
+}
+h6{
+	font-family: 'Shadows Into Light', cursive ; 
+	font-size: 30px ;
+	color: white;
+	margin:0px ;
+	padding-bottom: 60px ;
+}
+.txt{
+  padding: 60px;
+  text-align: right;
+  background: #FCFDAF;
+  font-family: 'Shadows Into Light', cursive ; 
+  font-size: 20px ;
 }
